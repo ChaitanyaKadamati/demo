@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"hiredate":"2019-08-28T06:02:20.542Z","editEnabled":false,"firstname":"FirstName1","lastname":"LastName1","mgrid":"2","id":"1"},{"hiredate":"2019-08-27T06:02:20.545Z","editEnabled":false,"firstname":"FirstName2","lastname":"LastName2","mgrid":"3","id":"2"},{"hiredate":"2019-08-26T06:02:20.545Z","editEnabled":false,"firstname":"FirstName3","lastname":"LastName3","mgrid":"4","id":"3"},{"hiredate":"2019-08-25T06:02:20.545Z","editEnabled":false,"firstname":"FirstName4","lastname":"LastName4","mgrid":"5","id":"4"},{"hiredate":"2019-08-24T06:02:20.545Z","editEnabled":false,"firstname":"FirstName5","lastname":"LastName5","mgrid":"6","id":"5"},{"hiredate":"2019-08-23T06:02:20.545Z","editEnabled":false,"firstname":"FirstName6","lastname":"LastName6","mgrid":"7","id":"6"},{"hiredate":"2019-08-22T06:02:20.545Z","editEnabled":false,"firstname":"FirstName7","lastname":"LastName7","mgrid":"8","id":"7"},{"hiredate":"2019-08-21T06:02:20.545Z","editEnabled":false,"firstname":"FirstName8","lastname":"LastName8","mgrid":"9","id":"8"},{"hiredate":"2019-08-20T06:02:20.545Z","editEnabled":false,"firstname":"FirstName9","lastname":"LastName9","mgrid":"10","id":"9"},{"hiredate":"2019-08-19T06:02:20.545Z","editEnabled":false,"firstname":"FirstName10","lastname":"LastName10","mgrid":"11","id":"10"},{"hiredate":"2019-08-18T06:02:20.545Z","editEnabled":false,"firstname":"FirstName11","lastname":"LastName11","mgrid":"12","id":"11"},{"hiredate":"2019-08-17T06:02:20.545Z","editEnabled":false,"firstname":"FirstName12","lastname":"LastName12","mgrid":"13","id":"12"},{"hiredate":"2019-08-16T06:02:20.545Z","editEnabled":false,"firstname":"FirstName13","lastname":"LastName13","mgrid":"14","id":"13"},{"hiredate":"2019-08-15T06:02:20.545Z","editEnabled":false,"firstname":"FirstName14","lastname":"LastName14","mgrid":"15","id":"14"},{"hiredate":"2019-08-14T06:02:20.545Z","editEnabled":false,"firstname":"FirstName15","lastname":"LastName15","mgrid":"16","id":"15"},{"hiredate":"2019-08-13T06:02:20.545Z","editEnabled":false,"firstname":"FirstName16","lastname":"LastName16","mgrid":"17","id":"16"},{"hiredate":"2019-08-12T06:02:20.545Z","editEnabled":false,"firstname":"FirstName17","lastname":"LastName17","mgrid":"18","id":"17"},{"hiredate":"2019-08-11T06:02:20.545Z","editEnabled":false,"firstname":"FirstName18","lastname":"LastName18","mgrid":"19","id":"18"},{"hiredate":"2019-08-10T06:02:20.545Z","editEnabled":false,"firstname":"FirstName19","lastname":"LastName19","mgrid":"20","id":"19"},{"hiredate":"2019-08-09T06:02:20.545Z","editEnabled":false,"firstname":"FirstName20","lastname":"LastName20","mgrid":"21","id":"20"}]
